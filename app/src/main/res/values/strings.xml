@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">story</string>
+    <string name="story">story</string>
+    <string name="img">img</string>
+    <string name="stories">stories</string>
+    <string name="moral_stories">Moral stories</string>
+    <string name="love_stories">Love stories</string>
+    <string name="si_fi">si-fi</string>
+    <string name="adventure">Adventure</string>
+    <string name="horror">Horror</string>
+    <string name="success">success</string>
+    <string name="next">next</string>
+    <string name="title">title</string>
+    <string name="fairy_tail">fairy tail</string>
+    <string name="kindness">kindness</string>
+    <string name="life_lessons">life lessons</string>
+    <string-array name="simple">
+        <item>st</item>
+        <item>st2</item>
+        <item>st3</item>
+        <item>st4</item>
+        <item>st5</item>
+        <item>st6</item>
+        <item>st7</item>
+    </string-array>
+    <string-array name="ss">
+        <item>trtrt</item>
+        <item>trtrt</item>
+        <item>trtrt</item>
+        <item>trtrt</item>
+        <item>trtrt</item>
+        <item>trtrt</item>
+    </string-array>
+</resources>

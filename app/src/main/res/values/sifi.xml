@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sifiT">
+        <item>title 1</item>
+        <item>title 2</item>
+        <item>title 3</item>
+    </string-array>
+    <string-array name="sifiFs">
+        <item>dshjasdhsjdfhgergfasudfuyt</item>
+        <item>dshjasdhsjdfhgergfasudfuyt</item>
+        <item>dshjasdhsjdfhgergfasudfuyt</item>
+    </string-array>
+</resources>

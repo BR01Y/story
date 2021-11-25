@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horrorT">
+        <item>title 1</item>
+        <item>title 2</item>
+        <item>title 3</item>
+
+    </string-array>
+    <string-array name="horrorFs">
+        <item>dshjasdhsjdfhgergfasudfuyt</item>
+        <item>dshjasdhsjdfhgergfasudfuyt</item>
+        <item>dshjasdhsjdfhgergfasudfuyt</item>
+    </string-array>
+</resources>

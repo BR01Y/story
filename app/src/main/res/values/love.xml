@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loveT">
+        <item>A Useless Life</item>
+        <item>Working Very Hard</item>
+        <item>The Moon Cannot Be Stolen</item>
+        <item>A Cup of Tea</item>
+        <item>The Gates of Paradise</item>
+        <item>The Other Side</item>
+        <item>Time to Die</item>
+        <item>Moving Mind</item>
+    </string-array>
+    <string-array name="loveFs">
+        <item>
+            A farmer got so old that he couldn’t work the fields anymore. So he would spend the day just sitting on the porch. His son, still working the farm, would look up from time to time and see his father sitting there.“He’s of no use any more,” the son thought to himself, “he doesn’t do anything!” One day the son got so frustrated by this, that he built a wood coffin, dragged it over to the porch, and told his father to get in.Without saying anything, the father climbed inside. After closing the lid, the son dragged the coffin to the edge of the farm where there was a high cliff.As he approached the drop, he heard a light tapping on the lid from inside the coffin. He opened it up. Still lying there peacefully, the father looked up at his son. “I know you are going to throw me over the cliff, but before you do, may I suggest something?” “What is it?” replied the son. “Throw me over the cliff, if you like,” said the father, “but save this good wood coffin. Your children might need to use it.”
+        </item>
+        <item>
+            A martial arts student went to his teacher and said earnestly, “I am devoted to studying your martial system. How long will it take me to master it.”
+            The teacher’s reply was casual, “Ten years.” Impatiently, the student answered, “But I want to master it faster than that. I will work very hard. I will practice every day, ten or more hours a day if I have to. How long will it take then?”
+            The teacher thought for a moment, “20 years.”
+        </item>
+        <item>
+            Ryokan, a Zen master, lived the simplest kind of life in a little hut at the foot of a mountain. One evening a thief visited the hut only to discover there was nothing in it to steal.
+            Ryokan returned and caught him. “You may have come a long way to visit me,” he told the prowler, “and you shoud not return emptyhanded. Please take my clothes as a gift.”
+            The thief was bewildered. He took the clothes and slunk away.
+            Ryokan sat naked, watching the moon. “Poor fellow,” he mused, “I wish I could give him this beautiful moon.”
+        </item>
+        <item>
+            Nan-in, a Japanese master during the Meiji era (1868-1912), received a university professor who came to inquire about Zen.
+            Nan-in served tea. He poured his visitor’s cup full, and then kept on pouring.
+            The professor watched the overflow until he no longer could restrain himself. “It is overfull. No more will go in!”
+            “Like this cup,” Nan-in said, “you are full of your own opinions and speculations. How can I show you Zen unless you first empty your cup?”
+        </item>
+        <item>
+            A soldier named Nobushige came to Hakuin, and asked: “Is there really a paradise and a hell?”“Who are you?” inquired Hakuin. “I am a samurai,” the warrior replied.“You, a soldier!” exclaimed Hakuin. “What kind of ruler would have you as his guard? Your face looks like that of a beggar.”
+            Nobushige became so angry that he began to draw his sword, but Hakuin continued: “So you have a sword! Your weapon is probably much too dull to cut off my head.”As Nobushige drew his sword Hakuin remarked: “Here open the gates of hell!” At these words the samurai, perceiving the master’s discipline, sheathed his sword and bowed.“Here open the gates of paradise,” said Hakuin.
+        </item>
+        <item>
+            One day a young Buddhist on his journey home came to the banks of a wide river. Staring hopelessly at the great obstacle in front of him, he pondered for hours on just how to cross such a wide barrier.
+            Just as he was about to give up his pursuit to continue his journey he saw a great teacher on the other side of the river. The young Buddhist yells over to the teacher, “Oh wise one, can you tell me how to get to the other side of this river”?
+            The teacher ponders for a moment looks up and down the river and yells back, “My son, you are on the other side”.
+        </item>
+        <item>
+            Ikkyu, the Zen master, was very clever even as a boy. His teacher had a precious teacup, a rare antique. Ikkyu happened to break this cup and was greatly perplexed. Hearing the footsteps of his teacher, he held the pieces of the cup behind him. When the master appeared, Ikkyu asked: “Why do people have to die?”
+            “This is natural,” explained the older man. “Everything has to die and has just so long to live.”
+            Ikkyu, producing the shattered cup, added: “It was time for your cup to die.”
+        </item>
+        <item>
+            Two men were arguing about a flag flapping in the wind.
+            “It’s the wind that is really moving,” stated the first one. “No, it is the flag that is moving,” contended the second.
+            A Zen master, who happened to be walking by, overheard the debate and interrupted them. “Neither the flag nor the wind is moving,” he said, “It is MIND that moves.”
+        </item>
+    </string-array>
+</resources>
