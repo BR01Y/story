@@ -8,7 +8,7 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class strorySActivity2 extends AppCompatActivity {
+public class storySActivity2 extends AppCompatActivity {
     ImageView nI;
     TextView nT,titleT;
     ScrollView scrollView;

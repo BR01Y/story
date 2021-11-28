@@ -20,8 +20,7 @@ public class MainActivity extends AppCompatActivity {
         horrorLayout=findViewById(R.id.horror);
         moralLayout.setOnClickListener(view -> {
             Intent intent=new Intent(MainActivity.this,listViewActivity2.class);
-            String pass;
-            pass="moral";
+            String pass="moral";
             intent.putExtra("pass",pass);
             startActivity(intent);
         });
